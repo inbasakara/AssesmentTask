@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Canada</string>
+    <string name="txt_aboutcanada">About Canada</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_description">Beavers are second only to humans in their ability to manipulate and change their environment. They can measure up to 1.3 metres long. A group of beavers is called a colony</string>
+    <string name="tryagain_toast">Try Again Later</string>
+</resources>
